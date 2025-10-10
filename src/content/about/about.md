@@ -13,4 +13,4 @@ With a deliberately minimal design, this layout ensures your content takes cente
 
 Effortlessly share your thoughts in _a calm & dustless space._
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+This is a fork of the **[original project](https://github.com/the3ash/astro-chiri)** so that it can be deployed on Cloudflare Workers. Check posts for details and view source on [GitHub](https://github.com/umehina/astro-chiri-cloudflare). 
