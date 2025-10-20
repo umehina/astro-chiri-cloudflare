@@ -18,7 +18,7 @@ Check the [demo](https://astro-chiri.umemiya.workers.dev) for more details.
 - [x] MDX
 - [x] KaTeX
 - [x] Sitemap
-- [x] OpenGraph
+- [ ] OpenGraph
 - [x] RSS
 - [ ] Pagination
 
